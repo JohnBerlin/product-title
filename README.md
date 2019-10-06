@@ -18,3 +18,5 @@ npm install
 ```bash
 npm start
 ```
+
+5. Tout le code se trouve dans ./src/App.js
