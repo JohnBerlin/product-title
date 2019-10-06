@@ -1,0 +1,10 @@
+.app {
+    background-color: #282c34;
+    color: white;
+    min-height: 100vh;
+    padding-bottom: 50px;
+}
+
+.keyword-to-add {
+    cursor: pointer;
+}
